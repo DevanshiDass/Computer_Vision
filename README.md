@@ -15,7 +15,7 @@ Turn your webcam into a **gesture-driven mouse**:
 - 👌 **Left Click** → Pinch Index + Thumb (held = drag)  
 - ✌️ **Right Click** → Pinch Index + Middle  
 
-👉 Code: [`HandMouse/hand_mouse.py`](HandMouse/hand_mouse.py)  
+👉 Code: [`HandMouse/hand_mouse.py`](hand_mouse.py)  
 
 ---
 
@@ -27,7 +27,7 @@ Use your fingers like a **digital paintbrush**:
 - 📐 Shapes → Pinch Index + Thumb (Rectangle)  
 - ↩️ Undo → Thumb + Pinky  
 
-👉 Code: [`AirDrawingToolkit/air_drawing.py`](AirDrawingToolkit/air_drawing.py)  
+👉 Code: [`AirDrawingToolkit/air_drawing.py`](air_drawing.py)  
 
 ---
 
@@ -37,7 +37,7 @@ A camera-based **piano keyboard**:
 - 🖐 Fingertips mapped → Trigger audio samples in real-time  
 - 🔊 Plays pre-loaded `.wav` piano sounds with **zero lag**  
 
-👉 Code: [`VirtualPiano/virtual_piano.py`](VirtualPiano/virtual_piano.py)  
+👉 Code: [`VirtualPiano/virtual_piano.py`](virtual_piano.py)  
 
 ---
 
